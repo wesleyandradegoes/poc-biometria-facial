@@ -1,0 +1,15 @@
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\bin\Debug\poc_biometria_facial_azure.exe.config
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\bin\Debug\poc_biometria_facial_azure.exe
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\bin\Debug\poc_biometria_facial_azure.pdb
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\obj\Debug\poc_biometria_facial_azure.csprojAssemblyReference.cache
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\obj\Debug\poc_biometria_facial_azure.csproj.CoreCompileInputs.cache
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\obj\Debug\poc_biometria_facial_azure.csproj.CopyComplete
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\obj\Debug\poc_biometria_facial_azure.exe
+C:\Users\wesley.goes\Desktop\poc_biometria_facial_azure\poc_biometria_facial_azure\obj\Debug\poc_biometria_facial_azure.pdb
